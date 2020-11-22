@@ -215,12 +215,7 @@ def start(update: Update, context: CallbackContext):
                              text="🔥 Support Group",
                              url=f"https://t.me/joinchat/SKIlU1Ji0YWZyjYjbvpmUA"),
                          InlineKeyboardButton(
-                             text="🔔 Updates Channel",
-                             url="https://t.me/happypost")
-                     ],
-                     [
-                         inlineKeyboardButton(
-                             text="📑 Bot Log",
+                             text="📚 Obito LOG",
                              url="https://t.me/joinchat/AAAAAFRdxwtV1qiIztVTQw")
                      ],
                      [
